@@ -1,0 +1,3 @@
+fn main(){//定义一个main函数 没有参数没有返回
+    println!("Hello World");
+}
